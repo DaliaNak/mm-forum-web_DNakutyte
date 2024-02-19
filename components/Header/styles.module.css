@@ -1,0 +1,19 @@
+.main {
+  height: 140px;
+  background-color: rgb(197, 191, 186);
+  padding: 1rem;
+  margin-bottom: 4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
+
+/* .logoWrapper {
+  height: 100%;
+} */
+
+.logo {
+  height: 120px;
+}

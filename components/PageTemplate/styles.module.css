@@ -1,0 +1,11 @@
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: rgb(242, 238, 238);
+}
+
+.content {
+  flex: 1 1;
+  margin: auto;
+}

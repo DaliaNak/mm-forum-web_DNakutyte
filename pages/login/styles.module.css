@@ -1,0 +1,36 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  gap: 1rem;
+  margin: auto;
+  border: 1px rgb(209, 209, 209) solid;
+  border-radius: 10px;
+  box-shadow: 0px 1px 5px 0px rgba(212, 196, 196, 0.75);
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(212, 196, 196, 0.75);
+  -moz-box-shadow: 0px 1px 5px 0px rgba(212, 196, 196, 0.75);
+  padding: 2rem;
+  padding-bottom: 7rem;
+  margin-top: 3rem;
+  background-color: rgb(250, 249, 249);
+}
+
+.form input {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  border: 1px grey solid;
+  border-radius: 10px;
+}
+
+.form button {
+  padding: 0.5rem;
+  font-size: 0.9rem;
+  border: 1px grey solid;
+  background-color: rgb(27, 117, 208);
+  color: whitesmoke;
+  border-radius: 10px;
+}
+
+.errorMessage {
+  color: rgb(194, 17, 17);
+}

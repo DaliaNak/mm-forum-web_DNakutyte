@@ -1,0 +1,7 @@
+.main {
+  height: 100px;
+  /* background-color: rgb(197, 191, 186); */
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+}
